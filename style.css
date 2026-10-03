@@ -1,0 +1,107 @@
+.photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 5px solid #044dbb;
+}
+
+body {
+    font-family: "Happy Monkey", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    background-color: rgb(6, 235, 235);
+    color: white;
+    text-shadow: 0px 0px 10px black;
+    background: linear-gradient(rgb(102, 217, 255), rgb(1, 67, 153));
+
+}
+#bday-age {
+    background-color: #044dbb;
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+#bday-date {
+    background-color: #044dbb;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 0;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h3 {
+    margin: 0;
+}
+h2 {
+    margin-bottom: 10px;
+}
+.gift {
+    height: 400px;
+    width: 400px;
+    margin-top: 10px;
+    border: 6px solid white;
+    border-radius: 10px; 
+    background-image: url(images/gift-wrapping-paper-collection-vector-2033275.jpg);
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gift:hover {
+    background-image: url(images/blij\ GIF\ by\ Hans.gif);
+}
+.gift2 {
+    height: 400px;
+    width: 400px;
+    margin-top: 10px;
+    border: 6px solid white;
+    border-radius: 10px; 
+    background-image: url(images/gift-wrapping-paper-collection-vector-2033275.jpg);
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gift2:hover {
+    background-image: url(images/Slingers\ Hoedje\ GIF\ by\ AFAS\ Software.gif);
+}
+.gift3{
+    height: 400px;
+    width: 400px;
+    margin-top: 10px;
+    border: 6px solid white;
+    border-radius: 10px; 
+    background-image: url(images/gift-wrapping-paper-collection-vector-2033275.jpg);
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gift3:hover {
+    background-image: url(images/Think\ About\ It\ GIF\ by\ Identity.gif);
+}
+.gift4{
+    height: 400px;
+    width: 400px;
+    margin-top: 10px;
+    border: 6px solid white;
+    border-radius: 10px; 
+    background-image: url(images/gift-wrapping-paper-collection-vector-2033275.jpg);
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gift4:hover {
+    background-image: url(images/Dave\ Bautista\ Movie\ GIF\ by\ Diamond\ FIlms\ Argentina.gif);
+    background-size: 400px 400px;
+}
+#footer {
+    width: 800px;
+    margin: 40px auto;
+}
+a {
+    color: white;
+}
+    
